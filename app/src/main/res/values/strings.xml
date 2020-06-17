@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Opus Incognito</string>
+    <string name="search_hint">Search or type URL</string>
+    <string name="search">Go</string>
+    <string name="forward">Forward</string>
+    <string name="back">Back</string>
+    <string name="exit">Exit</string>
+    <string name="reload">Reload</string>
+    <string name="home">Home</string>
+    <string name="voice_search">Voice Search</string>
+</resources>

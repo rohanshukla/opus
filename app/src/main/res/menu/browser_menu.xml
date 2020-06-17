@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/forward"
+        android:title="@string/forward"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/back"
+        android:title="@string/back"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/refresh"
+        android:title="@string/reload"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/home"
+        android:title="@string/home"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/voiceSearch"
+        android:title="@string/voice_search"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/exit"
+        android:title="@string/exit"
+        app:showAsAction="never" />
+
+</menu>
